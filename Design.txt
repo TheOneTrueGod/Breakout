@@ -1,0 +1,15 @@
+Based on This: http://www.kongregate.com/games/mofunzone/noidzor
+It's breakout, but with skills, more balls, and maybe vs / co-op.
+
+Needs:
+Blocks have health
+Blocks need to have a "team" so friendly balls pass through them.
+Balls need to have a limit on how many bounces they survive for. (Maybe a max damage that they can deal?)
+Regen time on creating new balls
+
+Stats:
+Off: Increases damage balls deal
+Def: Decreases damage taken, increases health of blocks
+Endurance: Increases health, increases max damage a ball can deal
+Speed: Decreases time until next ball is summoned. Also decreases cooldowns on skills
+Magic: Increases max mana and mana regen
